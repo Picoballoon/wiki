@@ -1,12 +1,12 @@
 theme: jekyll-theme-cayman
 
 collections:
-  rope-design:
+  userguid:
     permalink: "/:collection/:path/"
     output: true
 
 
 defaults:
 - scope:
-    path: ./rope-design/rope-design.md
-    type: rope-design
+    path: userguid
+    type: userguid
