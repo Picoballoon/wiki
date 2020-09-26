@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+---
+version: 4.1.1
 
 collections:
   userguid:
@@ -10,3 +11,6 @@ defaults:
 - scope:
     path: userguid
     type: userguid
+
+
+theme: jekyll-theme-cayman
