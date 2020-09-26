@@ -1,5 +1,11 @@
 theme: jekyll-theme-cayman
 
+collections:
+  rope-design:
+    permalink: "/:collection/:path/"
+    output: true
+
+
 defaults:
 - scope:
     path: ./rope-design/rope-design.md
