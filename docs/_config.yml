@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+defaults:
+- scope:
+    path: ./rope-design/rope-design.md
+    type: rope-design
