@@ -17,14 +17,15 @@ The general data/information of a probe.
 
 |Name|Description|Type of data|Example|
 |----|-----------|------------|-------|
+|LaunchID|The id of the launch|Number|`3`
 |Launchtime|The timestamp when the probe started|Timestamp|`2020-09-20 18:51:16`
 |Launchsuccessful|Whether the probe has crashed|Bool|`true`
- Datareceived|Whether data was received|Bool|`false`
- ProbeWeight|The weight of the probe|Float(uses unit gram)|`3.5`
- ProbeVersion|The version of the probe|Version|`1.2`
- BalloonWeight|The weight of the balloon|Float(uses unit gram, is negative)|`-3.9`
- BalloonVersion|The version of the balloon|Version|`4.2`
- FirmwareVersion|The version of the firmware|Version|`7.4`
+|Datareceived|Whether data was received|Bool|`false`
+|ProbeWeight|The weight of the probe|Float(uses unit gram)|`3.5`
+|ProbeVersion|The version of the probe|Version|`1.2`
+|BalloonWeight|The weight of the balloon|Float(uses unit gram, is negative)|`-3.9`
+|BalloonVersion|The version of the balloon|Version|`4.2`
+|FirmwareVersion|The version of the firmware|Version|`7.4`
  
  
  ### Measure data
@@ -42,9 +43,10 @@ The measure data form the probes.
 |Pressure|The pressure of the probe|Float|`453`
 |Humidity|The humidity of the probe|Float|`3443`
 |UVRadiation|The UV radiation of the probe|Float|`34`
-GatewayLocation|The location of the RF gateway|Text|`I dont know`
-GatewayID|The id of the RF gateway|Number|`I dont know`
-RSSI|The RSSI of the RF|Float|`I dont know`
-SNR|The SNR of the RF|Float|`I dont know`
-Sparing factor|The sparing factor of the RF|Float|`I dont know`
-Frequency|The frequency of the RF|Float|`I dont know`
+|GatewayLocationLat|The position of the RF gateway|Text|`52.1234`
+|GatewayLocationLon|The position of the RF gateway|Text|`6.1234`
+|GatewayID|The id of the RF gateway|Text|`ttn-herengracht-ams`
+|RSSI|The RSSI of the RF|Float|`-25`
+|SNR|The SNR of the RF|Float|`5`
+|Sparing factor|The sparing factor of the RF|Float|`I dont know`
+|Frequency|The frequency of the RF|Float|`868.1`
