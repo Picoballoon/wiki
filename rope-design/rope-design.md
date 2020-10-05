@@ -12,4 +12,4 @@ nothing yet :cry:
 |[Gütermann Elasticfaden 10m](https://www.wolle-roedel.com/guetermann-elasticfaden-10m)|[Polyester](https://en.wikipedia.org/wiki/Polyester)|
 |[Prym Elastic-Nähfaden weiß 0,5mm 20m](https://www.wolle-roedel.com/prym-elastic-naehfaden-weiss-0-5mm-20m)|[Spandex](https://en.wikipedia.org/wiki/Spandex) and [Polyamid](https://en.wikipedia.org/wiki/Polyamide)|
 |[Made by Me Kettgarn schwarz 50g](https://www.wolle-roedel.com/made-by-me-kettgarn-schwarz-50g)|[Cotton](https://en.wikipedia.org/wiki/Cotton)|
-|[Gründl-Flexible Nähgarn, Spule 20 Meter](https://www.amazon.de/Gr%C3%BCndl-Flexible-N%C3%A4hgarn-schwarz-Gr%C3%BCndl-Elastic-N%C3%A4hfaden/dp/B071KR7VH4/)|[Polyester](https://en.wikipedia.org/wiki/Polyester) and Elastodia
+|[Gründl-Flexible Nähgarn, Spule 20 Meter](https://www.amazon.de/Gr%C3%BCndl-Flexible-N%C3%A4hgarn-schwarz-Gr%C3%BCndl-Elastic-N%C3%A4hfaden/dp/B071KR7VH4/)|[Polyester](https://en.wikipedia.org/wiki/Polyester) and Elastodia|
