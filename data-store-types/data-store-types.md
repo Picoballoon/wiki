@@ -10,7 +10,7 @@ The data about the project.
 |firmware_version|The current version of the firmware|Version|`1.0.0`
 |dashboard_version|The current version of the dashboard|Version|`2.2.6`
 |total_team_members|The current total team member count|Number|`15`
-
+ 
 
 ### General probe data
 The general data/information of a probe.
